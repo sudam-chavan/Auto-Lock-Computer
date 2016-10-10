@@ -3,4 +3,4 @@
  discovery, hence this script will work if your computer has bluetooth support.
  
 ## Dependency
- This script uses "pybluez" python library to discover bluetooth devices, you can download it from [here](https://code.google.com/archive/p/pybluez/downloads)
+ This script uses "pybluez" python library to discover bluetooth devices, you can download it from [here](https://code.google.com/archive/p/pybluez/downloads).
